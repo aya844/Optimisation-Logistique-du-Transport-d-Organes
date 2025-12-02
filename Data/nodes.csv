@@ -1,0 +1,3 @@
+id,type,name,supply
+D,source,Hopital donneur,1.0
+T,destination,bloc receveur,-1.0
